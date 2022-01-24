@@ -1,0 +1,12 @@
+
+body {
+    background-color: rgb(230, 230, 230);
+}
+
+body > .ui.grid {
+    height: 100%;
+}
+
+.column {
+    max-width: 40%;
+}
